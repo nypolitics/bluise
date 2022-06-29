@@ -27,6 +27,7 @@
     "not dead"
   ],
   "dependencies": {
+    "@nuxt/content": "^2.0.1",
     "@nuxt/typescript-runtime": "^0.4.10",
     "@nuxtjs/eslint-module": "^2.0.0",
     "@nuxtjs/markdownit": "^1.2.9",
